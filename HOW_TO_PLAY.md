@@ -8,7 +8,7 @@ The IDE for Java is NetBeans 8.2 on Windows System.
 The current working directory used for the game is this repo.
 
 4. How to Run the Game
-i). Clone the repo with the command: git clone https://github.com/csc413-01-su18/csc413-tankgame-jzhao11.
+i). Clone the repo with the command: git clone https://github.com/jzhao11/tank_war_game.
 ii). Open the NetBeans IDE. Import the Project by clicking "File->New Project".
 iii). Choose "Java Project with Existing Sources" in the "Projects" choice box and click "Next".
 Specify a name (e.g. csc413_tank_jzhao11) and location for the new project and click "Next".
